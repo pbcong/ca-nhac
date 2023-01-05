@@ -56,13 +56,13 @@ body {
   -moz-column-count: 3;
   -moz-column-gap: 0px;
   column-count: 3;
-  gap: 10px;
+  gap: 5px;
 }
 
-#gallery .card-content {
+#gallery img {
   width: 100% !important;
   height: auto !important;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 @media (max-width: 800px) {
